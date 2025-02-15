@@ -1,0 +1,21 @@
+Welcome to Lesson 2, where we’ll set up our Odoo 18 environment for
+JavaScript development.
+
+[Show environment or terminal setup]
+
+First, make sure you have Python 3, Postgres, and Odoo 18 installed. If you
+need guidance on installing Odoo 18, refer to the official documentation
+or your preferred installation source. After Odoo 18 is running, we'll activate
+developer mode so we can see technical details.
+
+Next, we’ll create a custom module folder. Inside it, we'll add a 'static/src/js'
+directory for our JavaScript files. In the module manifest, we'll list the paths
+to our JS files under the 'assets' section so Odoo knows where to load them.
+
+[Show or demonstrate editing the manifest]
+
+Finally, restart Odoo and check your browser console to confirm our JS file is
+loaded. A simple console.log statement is enough to verify success.
+
+With our environment ready, we can now move on to actually writing JavaScript
+in Odoo. Let’s dive into basic JS usage in Lesson 3.
