@@ -1,0 +1,27 @@
+Hello and welcome to the first lesson in our Odoo 18 JavaScript series.
+In this video, I'll introduce you to how JavaScript and Odoo work together,
+why it's important to understand the front-end of Odoo, and what we'll be
+covering in the upcoming lessons.
+
+[Pause or transition to a slide/visual]
+
+Odoo is well-known for its Python-based back-end. However, a lot of user
+interaction happens on the front-end. That's where JavaScript comes in,
+allowing us to create interactive elements, handle events, and communicate
+with Odoo’s back-end via RPC calls or the web framework.
+
+In Odoo 18, we expect some enhancements in performance, possibly new features,
+and improved asset management. Throughout this series, we'll learn how to
+integrate JavaScript into custom modules, build UI components (widgets), and
+exchange data with the server.
+
+[Show structure or highlights]
+
+Here’s what you can look forward to:
+1. Environment setup in Lesson 2.
+2. Writing basic JavaScript in Odoo in Lesson 3.
+3. Building custom widgets in Lesson 4.
+4. Data exchange using RPC calls in Lesson 5.
+
+I’m excited to share these lessons with you. Let’s get started with setting
+up our Odoo 18 environment in the next video. See you there!
